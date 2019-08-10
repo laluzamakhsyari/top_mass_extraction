@@ -13,4 +13,4 @@ The program is divided for extracting different number of bins, i.e. 5 bins (_re
 20 bins (_null.nb)/default and for averaging observables that are taken from 2 different observables, i.e. (_ave.nb)
 
 Python-based programs are also included for merging differential variables for various top quark mass for each of the
-observables.
+observables for different scales, i.e. mt and et2
