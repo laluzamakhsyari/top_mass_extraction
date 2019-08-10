@@ -3,7 +3,7 @@
 Simple code for extracting top quark mass for given cross sections and the histogram data
 
 The program contains detailed steps to compute/extract top quark mass for different observables given 
-differential distributions based on the work of M. Work, et.all in [arXiv:1711.01831]
+differential distributions based on the work of M. Worek, et.all in [arXiv:1711.01831]
 
 The folder contains (.txt) files which are tables for data of differential distributions for various observables.
 The program is done in Wolfram Mathematica Notebook (.nb), that will automatically calculate the top quark mass, 
